@@ -33,6 +33,8 @@ Steps:
 2.	Read input from serial communication using getData function.
 3.	Upload data to Arduino IOT Cloud every 1.5 seconds.
 
+1.5 seconds is tested to be the best time interval to upload the data in my case (limited wifi speed).
+
 
 
 
